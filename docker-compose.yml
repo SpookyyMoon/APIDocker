@@ -4,6 +4,16 @@ services:
     container_name: mongo_local
     restart: always
     ports:
-      - "27017:27017"
+      - "27018:27017"
     volumes:
       - ./data:/data/db
+
+  api:
+    image: api_docker:v0.1.3
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - MONGO_URI=mongodb://mongo:27017/backend_docker
+    depends_on:
+      - mongo
