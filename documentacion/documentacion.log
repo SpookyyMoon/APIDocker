@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.8)  6 DEC 2025 18:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.8)  6 DEC 2025 18:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -545,8 +545,14 @@ Package pdftex.def Info: ./imagenes/imagen10.png  used on input line 508.
 
 
 [11 <./imagenes/imagen9.png> <./imagenes/imagen10.png>]
+<./imagenes/imagen11.png, id=344, 825.0825pt x 537.00626pt>
+File: ./imagenes/imagen11.png Graphic file (type png)
+<use ./imagenes/imagen11.png>
+Package pdftex.def Info: ./imagenes/imagen11.png  used on input line 542.
+(pdftex.def)             Requested size: 412.54024pt x 268.50247pt.
 
-[12] (documentacion.aux
+
+[12 <./imagenes/imagen11.png>] (documentacion.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -558,17 +564,17 @@ Package rerunfilecheck Info: File `documentacion.out' has not changed.
 (rerunfilecheck)             Checksum: 0146356583488690B67E195FA3C08A06;1374.
  ) 
 Here is how much of TeX's memory you used:
- 13649 strings out of 468131
- 210631 string characters out of 5435026
+ 13658 strings out of 468131
+ 210876 string characters out of 5435026
  955477 words of memory out of 5000000
- 41848 multiletter control sequences out of 15000+600000
+ 41857 multiletter control sequences out of 15000+600000
  676126 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,392b,2112s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmr12.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmr17.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmr6.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmr8.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmtk10.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmtt10.pfb></home/spooky/.miktex/texmfs/install/fonts/type1/public/lm/lmtti10.pfb>
-Output written on documentacion.pdf (13 pages, 1052197 bytes).
+Output written on documentacion.pdf (13 pages, 1210819 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
+ 467 PDF objects out of 1000 (max. 8388607)
  256 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
