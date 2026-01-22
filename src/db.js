@@ -4,6 +4,8 @@ dotenv.config();
 
 const uri = process.env.MONGO_URI;
 
+// Comentario para webhook
+
 export async function connectDB() {
   try {
     await mongoose.connect(uri, {});
