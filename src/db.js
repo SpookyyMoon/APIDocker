@@ -4,7 +4,7 @@ dotenv.config();
 
 const uri = process.env.MONGO_URI;
 
-// Comentario para webhook prueba
+// Comentario para webhook prueba 360
 
 export async function connectDB() {
   try {
